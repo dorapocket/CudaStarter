@@ -1,0 +1,2 @@
+uv pip install modal
+modal run test_code.py
